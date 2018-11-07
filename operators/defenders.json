@@ -1,0 +1,18 @@
+{
+  "rec" : [ "SAS Recruit", "FBI Recruit", "GIGN Recruit", "GSG9 Recruit", "Spetsnaz Recruit" ],
+  "sas" : [ "Smoke", "Mute", "Recruit" ],
+  "fbi" : [ "Castle", "Pulse", "Recruit" ],
+  "gign" : [ "Doc", "Rook", "Recruit" ],
+  "spetsnaz" : [ "Kapkan", "Tachanka", "Recruit" ],
+  "gsg9" : [ "Jäger", "Bandit", "Recruit" ],
+  "jtf2" : [ "Frost" ],
+  "seals" : [ "Valkyrie" ],
+  "bope" : [ "Caviera" ],
+  "sat" : [ "Echo" ],
+  "geo" : [ "Mira" ],
+  "sdu" : [ "Lesion" ],
+  "grom" : [ "Ela" ],
+  "smb" : [ "Vigil" ],
+  "gis" : [ "Maestro", "Alibi" ],
+  "gsutr" : [ "Clash" ]
+}

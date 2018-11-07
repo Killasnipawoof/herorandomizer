@@ -1,0 +1,18 @@
+{
+  "rec" : [ "SAS Recruit", "FBI Recruit", "GIGN Recruit", "GSG9 Recruit", "Spetsnaz Recruit" ],
+  "sas" : [ "Sledge", "Thatcher", "Recruit" ],
+  "fbi" : [ "Ash", "Thermite", "Recruit", "Recruit" ],
+  "gign" : [ "Twitch", "Montagne", "Recruit" ],
+  "spetsnaz" : [ "Glaz", "Fuze", "Recruit" ],
+  "gsg9" : [ "Blitz", "IQ", "Recruit" ],
+  "jtf2" : [ "Buck" ],
+  "seals" : [ "Blackbeard" ],
+  "bope" : [ "Capitao" ],
+  "sat" : [ "Hibana" ],
+  "geo" : [ "Jackal" ],
+  "sdu" : [ "Ying" ],
+  "grom" : [ "Zofia" ],
+  "smb" : [ "Dokkaebi" ],
+  "cbrn" : [ "Lion", "Finka" ],
+  "gsutr" : [ "Maverick" ]
+}
